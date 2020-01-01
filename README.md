@@ -1,17 +1,5 @@
-# firebase_chat
+# FirebaseChat
 
-A new Flutter project.
+This is an Flutter application where you can chat with other people as well as video chat and voice chat with the use of Agora.io's API. It's from Tri Nhan Nguyen's friendly chat flutter tutorial which I want to continue to extend with more features like random video chatting and an instagram/facebook timeline where you can create posts for you and your contacts can see.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# FirebaseChat" 
+It's a work in progress and I will continue to work on it throughout the year.
